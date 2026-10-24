@@ -1,0 +1,18 @@
+{
+  "browser_action": {
+    "default_icon": "assets/icon.png",
+    "default_popup": "index.html"
+  },
+  "description": "Tetrys for Firefox that automatically gives the best blocks",
+  "icons": {
+    "256": "assets/icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Tetrys Easy",
+  "version": "1.0.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{d5c47be0-a66c-444b-a7ed-5dde80091e2f}"
+    }
+  }
+}
